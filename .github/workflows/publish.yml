@@ -40,7 +40,7 @@ jobs:
         # A personal access token needed to push your site after it has been built.
         access-token: ${{ secrets.ACCESS_TOKEN }}
         # The branch expected by GitHub to have the static files needed for your site.
-        #deploy-branch: # optional, default is master
+        deploy-branch: "gh-pages" # optional, default is master
         # Additional arguments that get passed to `gatsby build`.
         #gatsby-args: # optional, default is 
     
