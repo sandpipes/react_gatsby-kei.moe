@@ -1,0 +1,51 @@
+- name: "Volume 4"
+  stories:
+    - name: "Thin Presence"
+      rehosted: true
+      link: "/rehosted/ss/vol4ss_invisible-presence"
+- name: "Volume 4.5"
+  stories:
+    - name: "Swimsuit Short Story: Kei Karuizawa Chapter"
+      rehosted: true
+      link: "/rehosted/ss/vol45ss_karuizawa-kei"
+- name: "Volume 5"
+  stories:
+    - name: "The Complex Mind of a Maiden"
+      rehosted: true
+      link: "/rehosted/ss/vol5ss_complex_mind"
+- name: "Volume 7.5"
+  stories:
+    - name: "The Cupid Karuizawa"
+      rehosted: true
+      link: "/rehosted/ss/vol75_cupid_karuizawa"
+    - name: "Realised Feelings"
+      rehosted: true
+      link: "/rehosted/ss/vol75_realised_feelings"
+    - name: "A New Experience"
+      rehosted: true
+      link: "/rehosted/ss/vol75_a_new_experience"
+- name: "Volume 8"
+  stories:
+    - name: "A Teasing Partner"
+      rehosted: true
+      link: "/rehosted/ss/vol8_teasing_partner"
+- name: "Volume 9"
+  stories:
+    - name: "A Special Day for Students"
+      link: "https://youzitsu.surge.sh/9/ss2"
+- name: "Volume 11"
+  stories:
+    - name: "The first gift"
+      link: "https://cinnamontranslations.wordpress.com/2019/05/25/youjitsu-v11-ss-karuizawa-kei-the-first-gift/"
+- name: "Volume 11.5"
+  stories:
+    - name: "The Person Who Became Dear to Me"
+      link: "https://cinnamontranslations.wordpress.com/2020/01/27/youjitsu-volume-11-5-karuizawa-kei-ss-the-person-who-became-dear-to-me/"
+- name: "Volume 11.75"
+  stories:
+    - name: "The First Phone Call"
+      link: "https://cinnamontranslations.wordpress.com/2020/02/01/youjitsu-v11-75-ss-ayanokouji-kiyotaka-ss-the-first-phone-call/"
+- name: "Volume 12"
+  stories:
+    - name: "A Time Just for Them Alone"
+      link: "https://cinnamontranslations.wordpress.com/2020/01/24/youjitsu-2nd-year-volume-1-karuizawa-kei-ss-a-time-just-for-them-alone/"

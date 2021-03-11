@@ -1,0 +1,60 @@
+@import "variables";
+
+:root {
+  --site-margin: 40px;
+  --container-width: var(--grid-width);
+  --container-height: 800px;
+  --cover-width: 100vw;
+  --cover-height: 100vh;
+  --main-top: 0px;
+  --browser-bar-height: 0px;
+  --sidenav-width: 300px;
+  --font-family: Manrope;
+  --secondary-font-family: Manrope;
+  --surface-color: rgba(0, 0, 0, 0);
+  --background-color: #161616;
+  --grid-width: 1100px;
+  --default-color: #000;
+  --default-accent-color: #ffd600;
+}
+
+.compensate-for-scrollbar {
+  @media #{$mq-medium} {
+    margin: 0 10% !important;
+  }
+
+  @media #{$mq-large} {
+    margin: 0 12% !important;
+  }
+
+  @media #{$mq-xlarge} {
+    margin: 0 14% !important;
+  }
+}
+
+body {
+  background-color: #161616;
+  padding: 0;
+  color: #e2e2e2;
+
+  margin: 0 4%;
+
+  @media #{$mq-medium} {
+    margin: 0 10%;
+  }
+
+  @media #{$mq-large} {
+    margin: 0 12%;
+  }
+
+  @media #{$mq-xlarge} {
+    margin: 0 14%;
+  }
+}
+
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  src: local('Manrope'), url(../fonts/Manrope-Latin.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}

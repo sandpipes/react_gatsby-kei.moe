@@ -1,0 +1,28 @@
+@import "variables";
+
+.mainContent {
+  max-width: $bp-xxlarge;
+  padding: 2em 1.0875rem 1.45rem;
+
+  @media #{$mq-medium} {
+    margin: 0 1%;
+  }
+
+  @media #{$mq-large} {
+    margin: 0 4%;
+  }
+
+  @media #{$mq-xlarge} {
+    margin: 0 8%;
+  }
+}
+
+.testBorder {
+  //width: 0;
+  top: -12px;
+  position: relative;
+
+  border-top: 1px solid;
+  border-top-color: #272727;
+  //transition: width 2s ease 0.1s;
+}

@@ -1,0 +1,36 @@
+
+.header {
+  margin-bottom: 40px;
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+.volumeName {
+  font-size: 1.4rem;
+  font-weight: 350;
+}
+
+.link {
+  font-size: 1.2rem;
+  font-weight: 300;
+  color: #ffd600;
+}
+
+.link:hover {
+  color: yellow !important;
+}
+
+.block {
+  padding-bottom: 12px;
+
+  p {
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 2px;
+  }
+
+  ul {
+    padding-bottom: 0;
+    margin-bottom: 4px;
+  }
+}

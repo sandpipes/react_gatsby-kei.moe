@@ -1,0 +1,60 @@
+
+.header {
+  margin-bottom: 40px;
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+.block {
+  padding-bottom: 12px;
+
+  p {
+    line-height: 1.2;
+    margin-top: 0;
+  }
+
+  ul {
+    padding-bottom: 0;
+    margin-bottom: 6px;
+  }
+}
+
+$title-margin-bottom: 2px;
+$title-font-size: 1.3rem;
+$title-font-weight: 400;
+
+.title {
+  margin-bottom: $title-margin-bottom;
+  font-size: $title-font-size;
+  font-weight: $title-font-weight;
+
+  color: #ffd600;
+  a {
+    color: #ffd600;
+  }
+  a:hover {
+    color: yellow !important;
+  }
+}
+
+.titleNoLink {
+  color: #e2e2e2;
+  margin-bottom: $title-margin-bottom;
+  font-size: $title-font-size;
+  font-weight: $title-font-weight;
+}
+
+.author {
+  color: #e2e2e2af;
+  margin-bottom: 6px;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.link {
+  color: #ffd600;
+}
+
+.link:hover {
+  color: yellow !important;
+}
